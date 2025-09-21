@@ -1,11 +1,12 @@
-# My Vite React App
+# E-Commerce Dashboard
 
 ## Local Setup & Run
-Clone the repo, install dependencies, and start the dev server:
+
+To run this project locally, follow these steps:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Santosh595/e-commerce-dashboard.git
+cd e-commerce-dashboard
 npm install
 npm run dev
-Then open http://localhost:5173 in your browser.
+Open your browser and go to: http://localhost:5173
